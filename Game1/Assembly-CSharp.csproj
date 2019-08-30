@@ -78,7 +78,6 @@
     <Compile Include="Assets\scripts\MOve.cs" />
     <Compile Include="Assets\scripts\MoveableMonster.cs" />
     <Compile Include="Assets\scripts\Obstacle.cs" />
-    <Compile Include="Assets\scripts\Player\CharacterController2D.cs" />
     <Compile Include="Assets\scripts\PlayerMovement.cs" />
     <Compile Include="Assets\scripts\Projectile.cs" />
     <Compile Include="Assets\scripts\RotationScript.cs" />
@@ -91,8 +90,6 @@
     <Compile Include="Assets\scripts\trash\Tiles\Rule Tile\Scripts\RuleTile.cs" />
     <Compile Include="Assets\scripts\trash\Tiles\Terrain Tile\Scripts\TerrainTile.cs" />
     <Compile Include="Assets\scripts\Unit.cs" />
-    <None Include="Assets\sprites\roguelike-cave-pack\License.txt" />
-    <None Include="Assets\sprites\roguelike-cave-pack\spritesheetInfo.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Константин/Documents/GitHub/PrGame/Game1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
