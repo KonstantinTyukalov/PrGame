@@ -175,8 +175,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lives: 5
-  speed: 3
-  jumpForce: 10
+  speed: 5
+  jumpForce: 13
 --- !u!95 &5333604276942388816
 Animator:
   serializedVersion: 3
